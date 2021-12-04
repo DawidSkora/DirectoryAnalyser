@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Projekty\ThreadPool\ThreadPoolVS\ThreadPool\Debug\ThreadPool.exe
+C:\Users\user\Documents\Projekty\ThreadPool\ThreadPoolVS\ThreadPool\Debug\ThreadPool.pdb
